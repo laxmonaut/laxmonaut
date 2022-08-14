@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @laxmonaut
+- 👀 I’m interested in system administration, cloud architecture and automation.
+- 💻 I'm currently working as a Cloud Engineer.
+- 🌱 I’m currently learning IaC(Terraform & Cloudformation) and automation(Ansible & Packer) tools.
+- 💞️ I’m looking to collaborate on projects related to my interests.
